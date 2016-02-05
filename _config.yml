@@ -1,0 +1,28 @@
+name: Innocent Musings of an Amateur Mind
+favicon: null
+layout_spectrum: 0.10570992669090629
+typography_spectrum: 0.4594167217146605
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8580206425394863
+  lightness: 0.6721407037694007
+  saturation: 0.1511128293350339
+  rhythmicContrast: 0.3800227860920131
+purpose: []
