@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Intro...
-datePublished: '2016-02-05T04:22:03.856Z'
-dateModified: '2016-02-05T04:21:51.748Z'
+datePublished: '2016-02-05T06:23:51.905Z'
+dateModified: '2016-02-05T06:23:48.989Z'
 title: An Amateur Mind
 author: []
 authors: []
