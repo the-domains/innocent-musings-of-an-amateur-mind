@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Innocent Musings of an Amateur Mind]]></title>
+        <description><![CDATA[Innocent Musings of an Amateur Mind]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 05 Feb 2016 04:22:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[An Amateur Mind]]></title>
+            <description><![CDATA[<article><h1>An Amateur Mind</h1><p>My life has been a continually rolling series of failures, fuck ups, and hospital beds. This definitely isn’t an instruction guide for happiness nor success, rather a somewhat shitty recounting of how I survived some of it and fucked up the rest.</p></article>]]></description>
+            <link>undefinedan-amateur-mind/index.html</link>
+            <guid isPermaLink="false">0648c6df-be0f-4ee7-be3e-0b169155c551</guid>
+            <pubDate>Fri, 05 Feb 2016 04:22:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
