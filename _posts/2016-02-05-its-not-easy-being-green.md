@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: Growing up I always felt different. It was obvious to me that I didn’t fit in
-datePublished: '2016-02-05T05:02:39.786Z'
-dateModified: '2016-02-05T04:51:05.099Z'
+datePublished: '2016-02-08T05:46:33.420Z'
+dateModified: '2016-02-08T05:46:30.896Z'
 title: 'It’s not easy being green… '
+author: []
+sourcePath: _posts/2016-02-05-its-not-easy-being-green.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-02-05-its-not-easy-being-green.md
-published: true
 url: its-not-easy-being-green/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4742b081-db01-4fee-b915-3a666e470c8b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed95fa33-a586-4686-9b02-574e70d097ba.jpg)
 
 Growing up I always felt different. It was obvious to me that I didn't fit in, despite my endless attempts to pretend to. Impostor syndrome, they call it, or so I read. Not sure if that's because of my time spent away for normal social interactions with the humans or I'm just the result of an electrochemical physiological imbalance due to abhorrent genetic expressions. Truth is I've felt this way every day of my life.
 
