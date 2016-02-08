@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Growing up is hard for most, but the challenges I faced forced me to do most of it. '
-datePublished: '2016-02-05T04:41:07.316Z'
-dateModified: '2016-02-05T04:40:20.130Z'
+datePublished: '2016-02-08T05:35:50.447Z'
+dateModified: '2016-02-08T05:35:48.503Z'
 title: 'Cry havoc and let slip the dogs of war… '
+author: []
+sourcePath: _posts/2016-02-05-cry-havoc-and-let-slip-the-dogs-of-war.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-02-05-cry-havoc-and-let-slip-the-dogs-of-war.md
-published: true
 url: cry-havoc-and-let-slip-the-dogs-of-war/index.html
 _type: Article
 
