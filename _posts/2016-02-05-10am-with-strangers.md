@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: Sitting in a small room at 10AM with strangers I realize the fear in every beat of my heart.
-datePublished: '2016-02-05T05:02:38.895Z'
-dateModified: '2016-02-05T05:00:54.149Z'
+datePublished: '2016-02-08T05:51:00.594Z'
+dateModified: '2016-02-08T05:50:59.006Z'
 title: '10AM with Strangers… '
+author: []
+sourcePath: _posts/2016-02-05-10am-with-strangers.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-02-05-10am-with-strangers.md
-published: true
 url: 10am-with-strangers/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/380e04ff-dd6a-4e6e-9fd3-65b134af2704.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59d66acc-1c08-4a25-8872-b0112674b482.jpg)
 
 Sitting in a small room at 10AM with strangers I realize the fear in every beat of my heart. I feel like I'm about to fall off a cliff, and keep wondering if perhaps accepting death would just be easier than the constant struggles that have defined my life.
 
