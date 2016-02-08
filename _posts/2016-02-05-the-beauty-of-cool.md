@@ -6,24 +6,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The heat pipe, a curios invention of the past century that enabled technological revolutions unbeknownst to the mere mortals that envisioned them. '
-datePublished: '2016-02-05T05:02:13.958Z'
-dateModified: '2016-02-05T04:49:34.419Z'
+datePublished: '2016-02-08T05:45:05.135Z'
+dateModified: '2016-02-08T05:45:02.891Z'
 title: 'The beauty of cool… '
+author: []
+sourcePath: _posts/2016-02-05-the-beauty-of-cool.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-02-05-the-beauty-of-cool.md
-published: true
 url: the-beauty-of-cool/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9571c887-b8ba-4d9f-b9ee-003ecb8aaff4.jpg)
-
 Heat pipes!?!?!
 
 Ah yes! The heat pipe, a curios invention of the past century that enabled technological revolutions unbeknownst to the mere mortals that envisioned them. I started to frantically scribble the thoughts flashing by, as the idea formed in my mind. I didn't realize I was holding my breath trying to sketch my next computer until my vision was noticeably tunneling. My reality had its own vignette filter, I giggled, until I saw what I had drawn and took a breath. 
@@ -39,3 +37,4 @@ Just before I had to return to college from summer break I was done. At 3AM I po
 Actually it just beeped after a successful POST. I leaned in closer to my creation as the monitor flickered to life. Did it work? Had I solved the puzzle that had plagued me all summer? I waited over an hour and rested my head gently over the chassis. NO NOISE! Die fans, die!
 
 The AC fan kicked in and I had reached utopia; a winter wonderland with a silent computer. The beauty of silence, the power of cool!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9aaa592a-f17d-4792-be97-965db669f61d.jpg)
