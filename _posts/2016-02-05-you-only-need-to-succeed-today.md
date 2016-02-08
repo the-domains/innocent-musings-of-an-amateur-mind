@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'First I was afraid of the needles, but my skin grew callused and scarred.'
-datePublished: '2016-02-05T05:02:39.073Z'
-dateModified: '2016-02-05T05:00:10.622Z'
+datePublished: '2016-02-08T05:50:36.822Z'
+dateModified: '2016-02-08T05:50:35.082Z'
 title: 'You only need to succeed today… '
+author: []
+sourcePath: _posts/2016-02-05-you-only-need-to-succeed-today.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-02-05-you-only-need-to-succeed-today.md
-published: true
 url: you-only-need-to-succeed-today/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4f74040-560c-4200-b84f-56ca7959218f.jpg)
+
 First I was afraid of the needles, but my skin grew callused and scarred. Then I was afraid of the results, but my mind isolated emotion and empathy. Then I realized my enemy wasn't pain, emotion, or the humans; it was me. I have the choice to keep going or to give up and that is incredibly empowering. Do or die, fail or win...every day is a choice.
 
 The amorality of nature is unquestionable in my mind and I am nothing more than a genetic permutation that survives exclusively on the shoulders of modern medicine. My war with the unfortunate results of a genetic lottery was a war with myself. Understanding, accepting, and moving on is the only decision I could take; not without some hesitation. 
