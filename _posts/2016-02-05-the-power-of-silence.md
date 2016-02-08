@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: The years of inane hoarding of portals to my technological proclivities had finally come back to assault my senses.
-datePublished: '2016-02-05T05:02:14.160Z'
-dateModified: '2016-02-05T04:48:39.243Z'
+datePublished: '2016-02-08T05:43:43.025Z'
+dateModified: '2016-02-08T05:43:40.877Z'
 title: 'The power of silence… '
+author: []
+sourcePath: _posts/2016-02-05-the-power-of-silence.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-02-05-the-power-of-silence.md
-published: true
 url: the-power-of-silence/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90e8fb38-ce2e-4a96-826a-fa3da3359afe.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92abf88f-b356-4fa0-8f8f-95b06eb4dd87.jpg)
 
 ...then in one night of insomnia and scrambled thoughts, I was annoyed by all the lights in my bedroom. The years of inane hoarding of portals to my technological proclivities had finally come back to assault my senses. Awash in blinking status lights I arose groggy and irritated in a desperate pursuit of the greatest nerd tool of all, electrical tape. I attacked the photonic emitters mercilessly and with efficiency rarely seen outside elite military units. With the mission accomplished, darkness embraced me and my weary mind. A sardonic smirk across my face I lay down in a meager attempt at unconsciousness.
 
@@ -35,3 +35,4 @@ That is until I started experiencing hallucinations and what felt like an out of
 I scrambled to reassemble the PC, open up the web browser and commence my search for a professionally devised solution. Sound mats, isolation springs, liquid cooling, grounded self leveling suspension support struts, etcetera, etcetera. The list seemed eternal, yet none really solved the solution efficiently. The depression from the failure to solve the issue was soul crushing. I buried myself in bed in the fetal position hoping to erase the memory of the outside world.
 
 In a half state between catatonic thought and impulsive twitching a thought slowly started forming. I remembered some work I had done while in college on satellite design, or computers in free-fall as my physics professor amusingly called them. That's it! heat-pipes! EUREKA!!!!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac72a58c-4708-4c45-95b8-ec1132929f23.jpg)
