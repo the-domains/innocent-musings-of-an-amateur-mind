@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'I got eight months of normalcy, or at least as normal as I could get.'
-datePublished: '2016-02-05T04:34:29.097Z'
-dateModified: '2016-02-05T04:34:19.708Z'
+datePublished: '2016-02-08T05:32:44.505Z'
+dateModified: '2016-02-08T05:32:43.193Z'
 title: 'Live or Die on this day… '
 author: []
+sourcePath: _posts/2016-02-05-live-or-die-on-this-day.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-05-live-or-die-on-this-day.md
-published: true
 url: live-or-die-on-this-day/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c04ce45-6bd9-4730-b790-0a0fafd5a985.jpg)
+
 I got eight months of normalcy, or at least as normal as I could get. In those eight months my friendship with Francisco blossomed into what it is today, a brotherly bond. Then it started...
 
 I would fall asleep on a Tuesday and wake up Wednesday. Constantly feeling tired, almost narcoleptic. My mother being the consummate worrier decided this time not to rely on Honduran doctors, so we flew out to the Miami Children's Hospital. Test after test, each one requiring even more of my blood, it seemed. There is one I will never forget...
