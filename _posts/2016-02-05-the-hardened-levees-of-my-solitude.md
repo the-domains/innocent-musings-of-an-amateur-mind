@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ' It was a difficult decision, one I struggled with, and to this day consider a mistake.'
-datePublished: '2016-02-05T05:02:14.269Z'
-dateModified: '2016-02-05T04:47:51.668Z'
+datePublished: '2016-02-08T05:42:38.765Z'
+dateModified: '2016-02-08T05:42:37.025Z'
 title: 'The hardened levees of my solitude… '
+author: []
+sourcePath: _posts/2016-02-05-the-hardened-levees-of-my-solitude.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-02-05-the-hardened-levees-of-my-solitude.md
-published: true
 url: the-hardened-levees-of-my-solitude/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d76e55e7-f77c-4852-b082-de3a669901e1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/024a7816-8e75-4d16-9368-34d1e436dd38.jpg)
 
 Leaving Honduras once more I could feel my whole body relax. My breaths felt deeper and more satisfying, my posture a little straighter, my attitude slightly relaxed. I barely spent a little over one year before graduating and leaving for college. On the flight to Miami I wasn't sure what to think of my decision not just of attending Florida Tech in a small town such as Melbourne, but of accepting to major in Civil Engineering. It was a difficult decision, one I struggled with, and to this day consider a mistake.
 
