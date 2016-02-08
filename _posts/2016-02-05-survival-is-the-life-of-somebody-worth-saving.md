@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Survival is the life of somebody worth saving; I wasn’t that life. I didn’t want to survive, I ravaged, pillaged, and burned my way through.'
-datePublished: '2016-02-05T04:43:57.369Z'
-dateModified: '2016-02-05T04:42:22.893Z'
+datePublished: '2016-02-08T05:37:32.070Z'
+dateModified: '2016-02-08T05:37:26.974Z'
 title: 'Survival is the life of somebody worth saving… '
 author: []
+sourcePath: _posts/2016-02-05-survival-is-the-life-of-somebody-worth-saving.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-05-survival-is-the-life-of-somebody-worth-saving.md
-published: true
 url: survival-is-the-life-of-somebody-worth-saving/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54d3b306-77fe-4cb7-b86e-6122fe08dc44.jpg)
+
 Survival is the life of somebody worth saving; I wasn't that life. I didn't want to survive, I ravaged, pillaged, and burned my way through. Life, to me, was a burning ember comprised of a genetic dead-end. I intended to blow on the ember making it burn as hot and as bright as it could. Burn, baby, burn...
 
 One of the first superpowers I realized this attitude provided me was the effectiveness with which I could conquer the opposite sex. Rejection, or the fear of it really, is a powerful weapon that women lord over men. I figured, I was going to die anyway, what's the worst they can do? Say, "no!" Hardly, anything to fear. I surmise that it stems from a fear of the unknown. Not knowing whether you'll be rejected is a powerful motivator to stay away. Having five sisters gave me unprecedented access to opposition intelligence so I devised the direct approach. I would approach women as equals and express my direct intentions and my appreciation. I would say I had a 40% success rate on average. That may seem low at first blush, but I'm proud of that statistic.
