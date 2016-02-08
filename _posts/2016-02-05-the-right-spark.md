@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'My insecurities, my impending death, the world and everyone in it washed away from my mind as I focused on my creation.'
-datePublished: '2016-02-05T05:02:40.184Z'
-dateModified: '2016-02-05T04:50:17.407Z'
+datePublished: '2016-02-08T05:46:01.006Z'
+dateModified: '2016-02-08T05:45:59.187Z'
 title: 'The right spark… '
+author: []
+sourcePath: _posts/2016-02-05-the-right-spark.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-02-05-the-right-spark.md
-published: true
 url: the-right-spark/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7ecbe79-c955-497b-88d2-fea75c793b29.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b585de4b-9c9a-41a3-96f7-bb5b07e555dc.jpg)
 
 My insecurities, my impending death, the world and everyone in it washed away from my mind as I focused on my creation. Nothing else mattered. I left college that summer a curious boy and returned a changed man, still immature and reclusive but different none the less. I could not concentrate on anything else. I tried to ignore the siren's call and tie my attention to the mast of my mind's ship; like Odysseus I failed. College was no longer the place for me.
 
