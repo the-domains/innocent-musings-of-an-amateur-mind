@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: No matter the people or my surroundings I’ve always felt alone.
-datePublished: '2016-02-05T05:02:39.480Z'
-dateModified: '2016-02-05T04:51:50.312Z'
+datePublished: '2016-02-08T05:47:16.250Z'
+dateModified: '2016-02-08T05:47:14.256Z'
 title: 'The waves of loneliness crash upon the hardened levees of my solitude… '
+author: []
+sourcePath: _posts/2016-02-05-the-waves-of-loneliness-crash-upon-the-hardened-levees-of-my.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-02-05-the-waves-of-loneliness-crash-upon-the-hardened-levees-of-my.md
-published: true
 url: the-waves-of-loneliness-crash-upon-the-hardened-levees-of-my/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60977931-0ea1-4d2d-b1ba-9bf91bb24b7e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f05279b-36a7-4797-80bc-4dea419a7f6b.jpg)
 
 No matter the people or my surroundings I've always felt alone. Human relationships feel so temporary to me. It could be a self-fulfilling bias. I presume relationships are temporary therefore make them temporary. Equally, I don't get attached because I don't feel connected and I don't feel connected because I don't get attached. In the end, the result is the same; solitude.
 
