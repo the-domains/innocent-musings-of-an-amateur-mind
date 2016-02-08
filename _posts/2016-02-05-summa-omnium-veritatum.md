@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'It was early on in my life that I learned lessons that, now I realize, take most humans a lifetime to learn; if ever.'
-datePublished: '2016-02-05T04:36:08.641Z'
-dateModified: '2016-02-05T04:35:52.429Z'
+datePublished: '2016-02-08T05:34:51.392Z'
+dateModified: '2016-02-08T05:34:50.198Z'
 title: 'Summa Omnium Veritatum… '
 author: []
+sourcePath: _posts/2016-02-05-summa-omnium-veritatum.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-05-summa-omnium-veritatum.md
-published: true
 url: summa-omnium-veritatum/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7201bcec-9a87-41bd-b128-478df5d43a4a.jpg)
+
 It was early on in my life that I learned lessons that, now I realize, take most humans a lifetime to learn; if ever. First lesson, pain is truth; most have never experienced the kind of life changing pain I'm referring to which is why I think sometimes it's hard for me to relate to other hominids. This type of pain changes your perception of reality; for myself, it seemed I could just make out the edges of the curtain on reality; as if peeling it back would reveal the wizard pulling the levers behind it. If reality was this tenuous projection upon a thin veil, that everyone around me seemed blind to, then I was going to make it my own; king be the one-eyed man in the land of the blind.
 
 Second lesson, human consciousness is a feeble balancing act on the precipice of insanity. Every single human lives within a different reality created by interactions with the world, with that in mind communication with others seem futile and the source of most conflicts. Learning that at age 11 made for some interesting observations, i.e. most humans don't listen, and due to lack of information from this ignored data input the brain makes its own conclusions and provides that as the relevant information. This was a rather enjoyable loophole to exploit and get my way with the hospital staff. Weight gain due to overexposure to sugar was inevitable.
