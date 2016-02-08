@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Growing up apart from society, confined within hospital walls, gave me an exception to what I consider its monopoly on conformity.'
-datePublished: '2016-02-05T04:33:17.223Z'
-dateModified: '2016-02-05T04:33:06.962Z'
+datePublished: '2016-02-08T05:32:00.303Z'
+dateModified: '2016-02-08T05:31:58.818Z'
 title: 'It is the privilege of lesser men to light the flame… '
+author: []
+sourcePath: _posts/2016-02-05-it-is-the-privilege-of-lesser-men-to-light-the-flame.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-02-05-it-is-the-privilege-of-lesser-men-to-light-the-flame.md
-published: true
 url: it-is-the-privilege-of-lesser-men-to-light-the-flame/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58479e55-2fcd-4256-9807-8f5ac531f756.jpg)
+
 Growing up apart from society, confined within hospital walls, gave me an exception to what I consider its monopoly on conformity. I had to learn quickly and adapt. I spent my childhood learning this lesson. A lesson I thought I was done learning; and like most other times in life, upon self reflection, I realize how wrong I was.
 
 I was eleven, just released from my gilded cage, looking for more answers to my curiosity. More data to feed my incessant questions. I was allowed to go back to school for the last week of fifth grade. It had been years since I had interacted with this many hominids my age. Standing at the entrance to the classroom I had flashbacks of National Geographic specials. I thought to myself, if Jack Hanna hadn't made it to Honduras then I would continue his work.
