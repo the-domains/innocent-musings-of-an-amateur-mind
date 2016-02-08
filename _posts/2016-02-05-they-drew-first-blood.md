@@ -6,24 +6,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Endless hospital halls and the pervasive smell of sanitizer were staples of the memories of my childhood. '
-datePublished: '2016-02-05T04:39:05.085Z'
-dateModified: '2016-02-05T04:37:00.045Z'
+datePublished: '2016-02-08T05:35:29.221Z'
+dateModified: '2016-02-08T05:35:27.397Z'
 title: 'They drew first blood… '
+author: []
+sourcePath: _posts/2016-02-05-they-drew-first-blood.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-02-05-they-drew-first-blood.md
-published: true
 url: they-drew-first-blood/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f6c8a9e-0a1e-4382-b4e0-babcba6cf4f8.jpg)
-
 Endless hospital halls and the pervasive smell of sanitizer were staples of the memories of my childhood. I could not shake the feeling that I had missed some essential part of life, or maybe I just didn't want to believe that this was all life was. I returned to Honduras changed; pain had forced me to grow up faster than even I wanted to, despite its advantages in dealing with my situation. 
 
 I lied in my bedroom staring at the strange walls that surrounded me, although years passed before I ever felt comfortable in that room, I questioned what my next step would be. I had spent so much time in hospitals I was unsure how exactly to survive outside of them, I needed data. Once more, the questioned that haunted me from the first day of reason came to mind, Why/How?
@@ -45,3 +43,4 @@ I finished my junior year and decided to return briefly to Honduras, my parents 
 Pleasantries exchanged, I lifted my gear when I noticed a skulking body at the entrance; Francisco. He asked how I was and if I wanted to ride with him back to my house, I had never seen that much hesitation in his demeanor; it made me suspicious. My curiosity bested me and I agreed to join him. In the car ride he was apologetic in his tone and despite a brief stop at the mall to see his female friends the expressed purpose of the trip was to rekindle our friendship.
 
 Two weeks in Honduras and I discovered I could no longer return to the academy because of my health; that ended my dreams of an illustrious military career. My transition back to civilian life was not an easy one, it took me months to get used to the lack of reveille at dawn and TAPS at lights out. Pain has been my companion throughout my life and I have learned from it, but it pales to what I've learned from my interactions with the hominids in my shifting environment; if you ask me, they drew first blood...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b83abfc-e0b9-4ec5-a688-4af46b2e7c89.jpg)
