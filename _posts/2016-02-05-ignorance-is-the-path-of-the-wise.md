@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'When I started down the path of entrepreneurship I had no idea how much I would have to sacrifice, I don’t think most first time entrepreneurs really do.'
-datePublished: '2016-02-05T05:02:39.040Z'
-dateModified: '2016-02-05T05:01:41.538Z'
+datePublished: '2016-02-08T05:52:03.382Z'
+dateModified: '2016-02-08T05:52:01.272Z'
 title: 'Ignorance is the path of the wise… '
+author: []
+sourcePath: _posts/2016-02-05-ignorance-is-the-path-of-the-wise.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-02-05-ignorance-is-the-path-of-the-wise.md
-published: true
 url: ignorance-is-the-path-of-the-wise/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76f1e876-a7ed-4b4f-a345-19d5dedd19d5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/facce954-741c-4477-91ca-0fb1d1b709f2.jpg)
 
 When I started down the path of entrepreneurship I had no idea how much I would have to sacrifice, I don't think most first time entrepreneurs really do. Worst even, I don't think it would have mattered; I was dying, I didn't care. It still shocks me to this day how little thought I really gave to the consequences of my actions. Regardless, down the rabbit hole I went; blind to the reality that surrounded me.
 
